@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/delio-labaddan/](https://www.linkedin.com/in/delio-labaddan/)
 
-- ⚡ Fun fact **I am a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx) and Chess Grand Master**
+- ⚡ Fun fact **I am a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx), Chess Grand Master and Calligraphy Expert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
