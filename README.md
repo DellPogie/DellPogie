@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DellPogie](https://github.com/DellPogie)
 
-- 💬 Ask me about **Robotic Process Automation (RPA), VBA**
+- 💬 Ask me about **Robotic Process Automation (RPA), VBA, Power BI**
 
 - 📫 How to reach me **delio.labaddan@rocketmail.com**
 
