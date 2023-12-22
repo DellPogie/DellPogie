@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpogie" alt="dellpogie" /></a> </p>
 
+- ​👊 My core foundation in programming is **C, Pascal and Visual Basic**
+  
 - 🔭 I’m currently working on **Android (Java/Kotlin) Projects**
 
 - 🌱 I’m currently learning **AngularJS, ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DellPogie](https://github.com/DellPogie)
 
-- 💬 Ask me about **Robotic Process Automation (RPA)**
+- 💬 Ask me about **Robotic Process Automation (RPA), VBA**
 
 - 📫 How to reach me **delio.labaddan@rocketmail.com**
 
