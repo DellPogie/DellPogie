@@ -32,8 +32,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DELIO LABADDAN"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DELIO LABADDAN" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dellpogie&show_icons=true&locale=en&layout=compact" alt="dellpogie" /></p>
+<p>_</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dellpogie&show_icons=true&locale=en&layout=compact" alt="dellpogie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dellpogie&show_icons=true&locale=en" alt="dellpogie" /></p>
 
