@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpogie" alt="dellpogie" /></a> </p>
 
-- ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, FoxPro and Visual Basic**
+- ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, dBASE, FoxPro and Visual Basic**
   
 - 🔭 I’m currently working on **Android (Java/Kotlin) and JavaScript Projects**
 
