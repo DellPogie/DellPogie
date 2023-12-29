@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpogie" alt="dellpogie" /></a> </p>
 
-- ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, dBASE, FoxPro and Visual Basic**
+- ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, dBase, FoxPro, Visual Basic**
   
 - 🔭 I’m currently working on **Android (Java/Kotlin) and JavaScript Projects**
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DellPogie](https://github.com/DellPogie)
+- 👨‍💻 All of my projects are available at **[https://github.com/DellPogie](https://github.com/DellPogie)**
 
 - 💬 Ask me about **Robotic Process Automation (RPA), VBA, Power BI**
 
 - 📫 How to reach me **delio.labaddan@rocketmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/delio-labaddan/](https://www.linkedin.com/in/delio-labaddan/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/delio-labaddan/](https://www.linkedin.com/in/delio-labaddan/)**
 
-- ⚡ Fun fact **I am a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx), Chess Grand Master, Calligraphy Expert and Guitar Guy**
+- ⚡ Fun fact **I'm a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx), Chess Grand Master, Calligraphy Expert, Guitar Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
