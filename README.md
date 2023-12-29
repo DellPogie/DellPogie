@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Delio Labaddan</h1>
-<h3 align="center">Aspiring Software Developer</h3>
-<h3 align="center">I am a DOS Era Programmer | I am also a Senior VBA/SQL Developer</h3>
+<h3 align="center">I am a DOS Era Programmer and a Senior VBA/SQL Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellpogie&label=Profile%20views&color=0e75b6&style=flat" alt="dellpogie" /> </p>
 
