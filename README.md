@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpogie" alt="dellpogie" /></a> </p>
 
-- ​👊 My core foundation in programming is **C, Pascal and Visual Basic**
+- ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, FoxPro and Visual Basic**
   
-- 🔭 I’m currently working on **Android (Java/Kotlin) Projects**
+- 🔭 I’m currently working on **Android (Java/Kotlin) and JavaScript Projects**
 
-- 🌱 I’m currently learning **AngularJS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DellPogie](https://github.com/DellPogie)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/delio-labaddan/](https://www.linkedin.com/in/delio-labaddan/)
 
-- ⚡ Fun fact **I am a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx), Chess Grand Master and Calligraphy Expert**
+- ⚡ Fun fact **I am a Rubik's Cube Master (3x3, 4x4, 5x5, Megaminx, Pyraminx), Chess Grand Master, Calligraphy Expert and Guitar Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
