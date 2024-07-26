@@ -7,13 +7,13 @@
 
 - ​👊 My core foundation in programming is **C, C++, Clipper, Pascal, dBase, FoxPro, Visual Basic**
   
-- 🔭 I’m currently working on **Android (Java/Kotlin) and JavaScript Projects**
+- 🔭 I’m currently working on **Android (Java/Kotlin) Projects**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **Java and Kotlin**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/DellPogie](https://github.com/DellPogie)**
 
-- 💬 Ask me about **Robotic Process Automation (RPA), VBA, Power BI**
+- 💬 Ask me about **VBA, SQL, Robotic Process Automation (RPA), Power BI**
 
 - 📫 How to reach me **delio.labaddan@rocketmail.com**
 
